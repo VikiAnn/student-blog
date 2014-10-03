@@ -47,8 +47,12 @@ but it's something I'd like to do better at next time.
 
 Overall, though, the project turned out well, and we got better scores on our evaluation than either of us expected.
 For next time, I've got three goals:
+
 * Exchange preferred contact info first, preferably at least two methods of contact
+
 * Explain any availability issues next, before the actual project work starts
+
 * During the project work, strive for more of a balance of control over the project between both members of the team
+
 
 Hopefully that works out!
